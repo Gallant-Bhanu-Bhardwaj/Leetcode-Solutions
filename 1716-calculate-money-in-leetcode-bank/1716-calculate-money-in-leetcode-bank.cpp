@@ -1,16 +1,15 @@
 class Solution {
 public:
     int totalMoney(int n) {
-        int money = 0, tmoney = 0, j = 1;
-        for (int i = 1; i <= n; i++) {
-            if (i % 7 == 1) {
-                money++;
-                j = money;
-            }
+        int fullWeeks = n / 7;
+        int remainingDays = n % 7;
 
-            tmoney += j;
-            j++;
-        }
-        return tmoney;
+        // money from all full weeks
+        int moneyFromWeeks = fullWeeks * 28 + (7 * fullWeeks * (fullWeeks - 1)) / 2;
+
+        // money from remaining days in the next week
+        int moneyFromRemaining = remainingDays * (2 * (fullWeeks + 1) + (remainingDays - 1)) / 2;
+
+        return moneyFromWeeks + moneyFromRemaining;
     }
 };
