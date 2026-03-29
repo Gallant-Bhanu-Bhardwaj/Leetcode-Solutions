@@ -2,7 +2,7 @@ class Solution {
 public:
     int calculate(string s) {
         stack<int> st;
-        int result = 0;
+        long long int result = 0;
         long long int number = 0;
         int sign = 1;
 
