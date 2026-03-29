@@ -36,5 +36,10 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 <!---LeetCode Topics End-->
