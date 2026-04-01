@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
@@ -30,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0344-reverse-string](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -52,6 +54,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0242-valid-anagram](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
