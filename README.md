@@ -46,6 +46,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0224-basic-calculator](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 ## Sorting
@@ -60,4 +61,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0224-basic-calculator](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0224-basic-calculator/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
