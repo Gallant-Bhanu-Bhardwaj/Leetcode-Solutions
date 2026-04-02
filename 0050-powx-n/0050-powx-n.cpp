@@ -14,7 +14,7 @@ public:
         double ans=1;
         while(binform > 0)
         {
-            if(binform & 1 == 1)
+            if((binform & 1) == 1)
              ans *= x;
 
             x *= x;
