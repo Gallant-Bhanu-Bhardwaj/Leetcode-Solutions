@@ -18,7 +18,7 @@ public:
              ans *= x;
 
             x *= x;
-            binform /= 2;
+            binform >>= 2;
         }
         return ans;
     }
