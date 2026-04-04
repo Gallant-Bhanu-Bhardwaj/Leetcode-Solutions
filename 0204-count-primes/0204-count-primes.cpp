@@ -4,6 +4,7 @@ public:
         vector<int> a(n,1);
         if(n==0 || n==1)
          return 0;
+         a[0] = a[1] = 0;
         for(int i=2;i<n;i++)
         {
             if(a[i] != 0)
@@ -21,6 +22,6 @@ public:
         {
             sum += x;
         }
-        return sum-2;
+        return sum;
     }
 };
