@@ -5,7 +5,7 @@ public:
         int col = matrix[0].size();
         for(int i=0;i<row;i++)
         {
-            for(int j=i;j<col;j++)
+            for(int j=i+1;j<col;j++)
             {
                 swap(matrix[i][j],matrix[j][i]);
             }
