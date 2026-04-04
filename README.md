@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -27,6 +28,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -57,6 +59,7 @@
 | [0029-divide-two-integers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0204-count-primes](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0224-basic-calculator](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -104,4 +107,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
