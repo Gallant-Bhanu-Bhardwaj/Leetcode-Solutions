@@ -4,18 +4,11 @@ public:
         int cntx = 0, cnty=0;
         for(int i=0;i<moves.size();i++)
         {
-            if(moves[i] == 'L')
-                cntx--;
-            else if(moves[i] == 'R')
-                cntx++;    
-            else if(moves[i] == 'U')
-                cnty++; 
-            else        
-                cnty--;
+            if(moves[i] == 'L') cntx--;
+            else if(moves[i] == 'R') cntx++;    
+            else if(moves[i] == 'U') cnty++; 
+            else cnty--;
         }
-        if(cntx==0 && cnty == 0)
-        return true;
-        else
-         return false;
+       return (cntx == 0)&&(cnty==0);
     }
 };
