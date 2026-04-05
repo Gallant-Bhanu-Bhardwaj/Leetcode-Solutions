@@ -74,6 +74,7 @@
 | [0441-arranging-coins](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
+| [0507-perfect-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
