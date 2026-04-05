@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -70,6 +71,7 @@
 | [0258-add-digits](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
