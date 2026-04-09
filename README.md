@@ -61,6 +61,7 @@
 | [0224-basic-calculator](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0504-base-7](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Math
@@ -79,6 +80,7 @@
 | [0441-arranging-coins](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
+| [0504-base-7](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 ## Sorting
