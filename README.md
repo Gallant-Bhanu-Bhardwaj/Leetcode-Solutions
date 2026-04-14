@@ -110,6 +110,7 @@
 | [0089-gray-code](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0461-hamming-distance](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0461-hamming-distance) |
 ## Tree
 |  |
 | ------- |
