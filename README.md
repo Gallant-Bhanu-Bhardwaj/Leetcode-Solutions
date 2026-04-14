@@ -48,6 +48,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0061-rotate-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 ## Greedy
@@ -159,6 +160,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
