@@ -170,4 +170,5 @@
 | [0061-rotate-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
