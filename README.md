@@ -112,6 +112,7 @@
 | [0029-divide-two-integers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0089-gray-code](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0461-hamming-distance) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0338-counting-bits](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0338-counting-bits) |
 ## Counting
 |  |
 | ------- |
