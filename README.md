@@ -27,6 +27,7 @@
 | [0169-majority-element](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0224-basic-calculator](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0504-base-7](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -92,6 +94,7 @@
 | [0169-majority-element](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +113,7 @@
 | [0089-gray-code](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0389-find-the-difference](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0461-hamming-distance) |
 ## Tree
 |  |
