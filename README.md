@@ -50,6 +50,7 @@
 | [0011-container-with-most-water](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0061-rotate-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 ## Greedy
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0148-sort-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -133,6 +135,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
@@ -169,6 +172,11 @@
 | ------- |
 | [0061-rotate-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
