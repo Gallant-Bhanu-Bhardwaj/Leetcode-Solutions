@@ -92,6 +92,7 @@
 | [0504-base-7](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sorting
