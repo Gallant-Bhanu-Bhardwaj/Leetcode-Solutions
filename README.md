@@ -104,6 +104,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
