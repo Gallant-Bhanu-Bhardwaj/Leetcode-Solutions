@@ -21,6 +21,7 @@
 | [0905-sort-array-by-parity](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Prefix Sum
 |  |
