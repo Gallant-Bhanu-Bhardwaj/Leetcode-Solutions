@@ -56,6 +56,7 @@
 | [0148-sort-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0832-flipping-an-image](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Greedy
@@ -95,6 +96,7 @@
 | [0492-construct-the-rectangle](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0507-perfect-number/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -184,6 +186,7 @@
 | [0367-valid-perfect-square](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0441-arranging-coins/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
