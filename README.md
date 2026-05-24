@@ -16,6 +16,7 @@
 | [0204-count-primes](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
@@ -34,6 +35,7 @@
 | [0169-majority-element](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Matrix
@@ -103,6 +105,7 @@
 | [0204-count-primes](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0224-basic-calculator](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0258-add-digits](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
+| [0268-missing-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
@@ -132,6 +135,7 @@
 | [0169-majority-element](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -152,6 +156,7 @@
 | [0029-divide-two-integers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0089-gray-code](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0389-find-the-difference) |
@@ -210,6 +215,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0441-arranging-coins/) | Easy |
