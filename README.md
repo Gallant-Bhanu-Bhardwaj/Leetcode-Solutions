@@ -150,6 +150,7 @@
 | [0224-basic-calculator](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 | [0206-reverse-linked-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -257,4 +260,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
