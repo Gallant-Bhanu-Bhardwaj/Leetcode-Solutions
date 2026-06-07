@@ -23,14 +23,14 @@
 class Solution {
 public:
     int pairSum(ListNode* head) {
-        ListNode* slow = head, *fast = head->next;
+        ListNode* slow = head, *fast = head;
         if(!head->next->next) return head->val+head->next->val;
         while(fast && fast->next)
         {
             slow = slow -> next;
             fast = fast -> next -> next;
         }
-        ListNode* ptr1 = head, *ptr2 = rev(slow->next);
+        ListNode* ptr1 = head, *ptr2 = rev(slow);
         int maxSum=0;
         while(ptr2)
         {
