@@ -18,12 +18,14 @@ public:
         return cnt;
     }
     ListNode* getIntersectionNode(ListNode* headA, ListNode* headB) {
+
         int count1 = len(headA);
         int count2 = len(headB);
-        int diff = abs(count1 - count2);
+
         ListNode* ptr1 = headA;
         ListNode* ptr2 = headB;
-        // int n = count1>count2?count1:count2;
+
+        int diff = abs(count1 - count2);
         if (count1 > count2) {
             for (int i = 0; i < diff; i++) {
                 ptr1 = ptr1->next;
@@ -33,9 +35,11 @@ public:
                 ptr2 = ptr2->next;
             }
         }
-        while (ptr1) {
-            if(ptr1 == ptr2) return ptr1;    
-            if (ptr1->next == ptr2->next) return ptr1->next;  
+
+        while (ptr1 && ptr2) {
+            if (ptr1 == ptr2)
+                return ptr1;
+                
             ptr1 = ptr1->next;
             ptr2 = ptr2->next;
         }
