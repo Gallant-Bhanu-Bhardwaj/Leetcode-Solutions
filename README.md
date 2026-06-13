@@ -30,6 +30,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3838-weighted-word-mapping](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@
 | [0709-to-lower-case](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -260,6 +262,7 @@
 | [0657-robot-return-to-origin](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0832-flipping-an-image](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3838-weighted-word-mapping](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
