@@ -9,7 +9,7 @@ public:
                 if (!res.empty())
                     res.pop_back();
             } else if (s[i] == '#') {
-                res.append(res);
+                res+=res;
             } else {
                 reverse(res.begin(), res.end());
             }
