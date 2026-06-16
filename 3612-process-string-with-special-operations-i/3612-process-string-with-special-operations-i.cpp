@@ -6,7 +6,7 @@ public:
             if (isalpha(s[i])) {
                 res += s[i];
             } else if (s[i] == '*') {
-                if (res.size() != 0)
+                if (!res.empty())
                     res.pop_back();
             } else if (s[i] == '#') {
                 res.append(res);
