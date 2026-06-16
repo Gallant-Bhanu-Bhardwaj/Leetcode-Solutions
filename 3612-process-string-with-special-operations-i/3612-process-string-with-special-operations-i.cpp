@@ -3,7 +3,7 @@ public:
     string processStr(string s) {
         string res = "";
         for (int i = 0; i < s.size(); i++) {
-            if (isalpha(s[i])) {
+            if (s[i]>='a' && s[i]<='z') {
                 res.push_back(s[i]);
             } else if (s[i] == '*') {
                 if (!res.empty())
