@@ -4,7 +4,7 @@ public:
         string res = "";
         for (int i = 0; i < s.size(); i++) {
             if (isalpha(s[i])) {
-                res += s[i];
+                res.push_back(s[i]);
             } else if (s[i] == '*') {
                 if (!res.empty())
                     res.pop_back();
