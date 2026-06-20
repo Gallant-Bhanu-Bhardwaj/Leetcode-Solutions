@@ -27,6 +27,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -149,6 +150,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1840-maximum-building-height](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
@@ -172,6 +174,7 @@
 | [0389-find-the-difference](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [1840-maximum-building-height](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 ## Stack
 |  |
 | ------- |
