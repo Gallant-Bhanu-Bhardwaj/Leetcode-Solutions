@@ -27,6 +27,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## String
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [0389-find-the-difference](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [1833-maximum-ice-cream-bars](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 ## Stack
 |  |
@@ -334,4 +337,8 @@
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
