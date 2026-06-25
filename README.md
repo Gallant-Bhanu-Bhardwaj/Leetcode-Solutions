@@ -34,6 +34,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Hash Table
@@ -50,6 +51,7 @@
 | [0500-keyboard-row](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [1189-maximum-number-of-balloons](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -249,6 +252,7 @@
 | [0053-maximum-subarray](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -261,6 +265,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -328,6 +333,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Interactive
 |  |
 | ------- |
@@ -348,4 +354,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
