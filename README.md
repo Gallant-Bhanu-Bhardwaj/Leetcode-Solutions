@@ -38,6 +38,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3620-network-recovery-pathways](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -274,6 +275,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0338-counting-bits) |
+| [3620-network-recovery-pathways](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Counting
@@ -321,6 +323,7 @@
 | [0441-arranging-coins](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,4 +396,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
