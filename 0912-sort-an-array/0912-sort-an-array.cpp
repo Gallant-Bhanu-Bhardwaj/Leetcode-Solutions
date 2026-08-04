@@ -1,51 +1,37 @@
 class Solution {
 public:
-vector<int> Merge(vector<int>& nums, int s, int mid, int e) 
+void heapify(vector<int> &nums, int n ,int i)
 {
-    vector<int> temp;
-    int i=s , j = mid+1;
-    while(i<=mid && j<=e)
-    {
-        if(nums[i]<= nums[j])
-        {
-            temp.push_back(nums[i]);
-            i++;
-        }
-        else
-        {
-            temp.push_back(nums[j]);
-            j++;
-        }
-    }
-    while(i <= mid)
-    {
-        temp.push_back(nums[i]);
-            i++;
-    }
-    while(j <= e)
-    {
-        temp.push_back(nums[j]);
-            j++;
-    }
-    for(int k=0;k<temp.size();k++)
-    {
-        nums[k+s] = temp[k];
-    }
-    return temp;
+    int largest = i;
+    int left = 2*i + 1;
+    int right = 2*i + 2;
+
+    if(left < n && nums[largest] < nums[left])
+     largest = left;
+    if(right < n && nums[largest] < nums[right])
+     largest = right;
+
+     if(largest != i)
+     {
+        swap(nums[largest],nums[i]);
+        heapify(nums,n,largest);
+     }
 }
- void MergeSort(vector<int>& nums,int s , int e)
- {
-    if(s < e)
-    {
-        int mid = s + (e-s)/2;
-        MergeSort(nums,s,mid);
-        MergeSort(nums,mid+1,e);
-        Merge(nums,s,mid,e);
-    }
- } 
     vector<int> sortArray(vector<int>& nums) {
-        int s=0 , e = nums.size()-1;
-        MergeSort(nums,s,e);
-        return nums;
+       int size = nums.size();
+       for(int i=size/2-1;i>=0;i--)
+       {
+        heapify(nums,size,i);
+       }
+
+       int heapSize = size;
+       while(heapSize>1)
+       {
+        swap(nums[0],nums[heapSize-1]);
+        heapSize--;
+
+        heapify(nums,heapSize,0);
+       }
+       return nums;
     }
 };
