@@ -275,6 +275,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -342,6 +343,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -366,6 +368,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -413,6 +416,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -446,4 +450,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
