@@ -39,6 +39,7 @@
 | [1840-maximum-building-height](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -128,6 +129,7 @@
 | [0011-container-with-most-water](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -444,6 +446,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2974-minimum-number-game](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3620-network-recovery-pathways](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
