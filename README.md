@@ -62,6 +62,7 @@
 | [0169-majority-element](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0264-ugly-number-ii](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0389-find-the-difference) |
@@ -168,6 +169,7 @@
 | [0204-count-primes](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0224-basic-calculator](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0258-add-digits](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
+| [0264-ugly-number-ii](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -305,6 +307,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0264-ugly-number-ii](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -440,6 +443,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
