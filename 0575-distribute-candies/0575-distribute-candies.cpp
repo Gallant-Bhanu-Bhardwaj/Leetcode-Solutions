@@ -2,11 +2,11 @@ class Solution {
 public:
     int distributeCandies(vector<int>& candyType) {
         int n = candyType.size();
-        set<int> st;
-        for(auto x : candyType)
-         st.insert(x);
+        unordered_map<int,int> mp;
 
-         int type = st.size();
-         return min(type,n/2);
+        for(int x : candyType)
+         mp[x]++;
+
+        return  min(n/2,static_cast<int>(mp.size())); 
     }
 };
