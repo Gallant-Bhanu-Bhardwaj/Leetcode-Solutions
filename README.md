@@ -204,6 +204,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
