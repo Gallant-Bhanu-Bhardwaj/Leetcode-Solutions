@@ -502,4 +502,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
