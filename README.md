@@ -507,5 +507,6 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0176-second-highest-salary/) | Medium |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
