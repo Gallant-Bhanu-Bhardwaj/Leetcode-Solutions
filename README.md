@@ -511,4 +511,8 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0196-delete-duplicate-emails) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
