@@ -11,6 +11,7 @@
 | [0046-permutations](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -313,6 +314,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0338-counting-bits](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
