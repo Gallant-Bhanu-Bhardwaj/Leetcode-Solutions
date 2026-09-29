@@ -35,6 +35,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
