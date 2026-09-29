@@ -26,6 +26,7 @@
 | [0486-predict-the-winner](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0575-distribute-candies/) | Easy |
+| [0605-can-place-flowers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -134,6 +135,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0605-can-place-flowers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
