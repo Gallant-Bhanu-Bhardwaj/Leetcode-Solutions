@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0334-increasing-triplet-subsequence](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0477-total-hamming-distance/) | Medium |
@@ -135,6 +136,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -532,4 +534,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 <!---LeetCode Topics End-->
