@@ -18,7 +18,8 @@ public:
             st = end;
             i++;
          }
-         s.resize(end-1);
+         if(end>0 && s[end-1] == ' ')end--;
+         s.resize(end);
          return s;
     }
 };
