@@ -56,6 +56,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -92,6 +93,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -102,6 +104,7 @@
 | [0832-flipping-an-image](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [1301-number-of-paths-with-max-score](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2352-equal-row-and-column-pairs](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Enumeration
@@ -393,6 +396,7 @@
 | [0657-robot-return-to-origin](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0832-flipping-an-image](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2352-equal-row-and-column-pairs](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2974-minimum-number-game](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
