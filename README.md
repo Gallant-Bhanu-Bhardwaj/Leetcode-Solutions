@@ -39,6 +39,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [1207-unique-number-of-occurrences](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -85,6 +86,7 @@
 | [0500-keyboard-row](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0575-distribute-candies/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
