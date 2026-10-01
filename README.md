@@ -321,6 +321,7 @@
 | [0110-balanced-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -334,6 +335,7 @@
 | [0110-balanced-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -348,6 +350,7 @@
 | [0110-balanced-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -609,4 +612,12 @@
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
