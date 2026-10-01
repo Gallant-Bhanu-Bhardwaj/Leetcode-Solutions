@@ -12,33 +12,24 @@
  */
 class Solution {
 public:
-    int maxm = 0;
-    void zigzag(TreeNode* root, bool right, int count) {
-        if (!root) {
-            maxm = max(maxm, count - 1);
-            return;
-        }
+    int ans = 0;
 
-        if (!right)
-            zigzag(root->right, true, count + 1);
-        else 
-            zigzag(root->left, false,count + 1);
-    }
-    void dfs(TreeNode* root) {
+    void dfs(TreeNode* root, int leftlen, int rightlen) {
         if (!root)
             return;
-
-        zigzag(root, false, 0);
-        zigzag(root, true, 0);
-        dfs(root->left);
-        dfs(root->right);
+        ans = max(ans, max(leftlen, rightlen));
+        if (root->right)
+            dfs(root->right, rightlen + 1, 0);
+        if (root->left)
+            dfs(root->left, 0, leftlen + 1);
     }
 
     int longestZigZag(TreeNode* root) {
-        if (!root || (!root->left && !root->right))
+        if (!root)
             return 0;
 
-        dfs(root);
-        return maxm;
+        dfs(root, 0, 0);
+
+        return ans;
     }
 };
