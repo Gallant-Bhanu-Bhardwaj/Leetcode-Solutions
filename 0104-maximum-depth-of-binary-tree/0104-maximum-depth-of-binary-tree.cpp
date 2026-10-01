@@ -18,6 +18,6 @@ public:
         int leftst = maxDepth(root->left);
         int rightst = maxDepth(root->right);
 
-        return max(leftst,rightst) + currdepth;
+        return max(leftst,rightst) + 1;
     }
 };
