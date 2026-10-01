@@ -161,6 +161,7 @@
 | [0011-container-with-most-water](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [0649-dota2-senate](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0649-dota2-senate/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
@@ -182,6 +183,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0504-base-7) |
+| [0649-dota2-senate](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0649-dota2-senate/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -580,4 +582,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0649-dota2-senate](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0649-dota2-senate/) | Medium |
 <!---LeetCode Topics End-->
