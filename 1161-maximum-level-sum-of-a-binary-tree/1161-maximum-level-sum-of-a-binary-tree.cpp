@@ -1,35 +1,46 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
     int maxLevelSum(TreeNode* root) {
-        int maxSum = INT_MIN;
-        int ans = 0, level = 0;
-
+        if(!root) return NULL;
         queue<TreeNode*> q;
         q.push(root);
 
-        while (!q.empty()) {
-            level++;
-            int sumAtCurrentLevel = 0;
-            // Iterate over all the nodes in the current level.
-            for (int sz = q.size(); sz > 0; --sz) {
-                TreeNode* node = q.front();
-                q.pop();
-                sumAtCurrentLevel += node->val;
+        int ans = 1, level = 1, maxi = INT_MIN;
 
-                if (node->left != nullptr) {
-                    q.push(node->left);
-                }
-                if (node->right != nullptr) {
-                    q.push(node->right);
-                }
+        while(!q.empty())
+        {
+            int sum = 0;
+            int size = q.size();
+
+            for(int i=0;i<size;i++)
+            {
+                TreeNode* front = q.front();
+                q.pop();
+
+                sum += front->val;
+
+                if(front->left) q.push(front->left);
+                if(front->right) q.push(front->right);
             }
 
-            if (maxSum < sumAtCurrentLevel) {
-                maxSum = sumAtCurrentLevel;
+            if(maxi < sum)
+            {
+                maxi = sum;
                 ans = level;
             }
+            level++;
         }
-
         return ans;
     }
 };
