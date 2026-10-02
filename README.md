@@ -321,6 +321,7 @@
 | [0110-balanced-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -335,6 +336,7 @@
 | [0110-balanced-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -350,6 +352,7 @@
 | [0110-balanced-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -514,6 +517,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Gallant-Bhanu-Bhardwaj/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
