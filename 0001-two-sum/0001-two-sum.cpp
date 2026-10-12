@@ -1,16 +1,15 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> ans;
-        for (int i = 0; i < nums.size(); i++) {
+        unordered_map<int,int> mp;
+        for(int i=0;i<nums.size();i++)
+        {
             int need = target - nums[i];
-            if (ans.count(need)) {
-                return {ans[need], i};
-            }
+            if(mp.count(need))
+                return {mp[need],i};
 
-            ans[nums[i]] = i;
+            mp[nums[i]] = i;
         }
-
-        return {};
+        return{};
     }
 };
